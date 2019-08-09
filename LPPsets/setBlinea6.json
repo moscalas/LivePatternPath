@@ -1,0 +1,39 @@
+{
+  "/color-blue": {"value": 255},
+  "/hora": {"text": "0"},
+  "/color-red": {"value": 255},
+  "/speed": {
+    "min": 1,
+    "max": 20,
+    "value": 11
+  },
+  "/NumPuntos": {
+    "min": 1,
+    "max": 20,
+    "value": 8
+  },
+  "/blend": {"value": 255},
+  "/X": {
+    "min": -1280,
+    "max": 1280,
+    "value": -530.7317504882812
+  },
+  "/Y": {
+    "min": -768,
+    "max": 768,
+    "value": 145.29730224609375
+  },
+  "/Z": {"value": 0},
+  "/minuto": {"text": "20"},
+  "/color-green": {"value": 0},
+  "/sonidoExtremos": {"value": 1},
+  "/Distancia": {
+    "min": 20,
+    "max": 400,
+    "value": 100
+  },
+  "/segundo": {"text": "00"},
+  "/sonidoPuntos": {"value": 1},
+  "/movimiento": {"value": 1},
+  "/state": {"value": 0}
+}
